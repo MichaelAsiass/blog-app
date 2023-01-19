@@ -10,6 +10,6 @@ A Blog where I post all programming related and help programmers with tips, tric
 
 <h2>Sample Screen</h2>
 
-<img src = 'https://github.com/MichaelAsiass/Arabic-Password-Gen/blob/main/APM.PNG'/>
+<img src = 'https://github.com/MichaelAsiass/blog-app/blob/main/Freecodingjourney.PNG'/>
 
 <br>
